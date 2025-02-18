@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lobster&display=swap');
+
+header {
+    font-family: Abril Fatface;
+    text-align: center;
+    align-content: center;
+}
+
+.titulo {
+    font-size: 20pt;
+    height: 150px;
+    color:snow;
+    background-image: url(titulo.jpg);
+    background-position: center center;
+}
+
+.subtitulo {
+    font-size: 12pt;
+    height: 70px;
+    color:darkslategrey;
+    background-color:snow;
+}
+
+.apartado {
+    font-size: 15pt;
+    background-color: darkslategrey;
+    color:snow
+}
+
+
+section {
+    font-family: Josefin Sans;
+    background-color:snow;
+}
+
+td {
+    text-align: justify;
+    align-content: center;
+
+}
+body {
+    background-image: url(cc.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+.contenido {
+    width: 90%;
+}
+.titulo h1 {
+    color: #333;
+}
